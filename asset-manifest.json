@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfofilo/static/css/main.db22749a.css",
+    "main.js": "/portfofilo/static/js/main.02e9f3aa.js",
+    "static/media/Screenshot2.png": "/portfofilo/static/media/Screenshot2.1ddf6c5811ed0b880f24.png",
+    "static/media/me1.jpg": "/portfofilo/static/media/me1.25eaccd4e6741aee2612.jpg",
+    "static/media/resume.pdf": "/portfofilo/static/media/resume.590eec6870ed30b74d39.pdf",
+    "index.html": "/portfofilo/index.html",
+    "main.db22749a.css.map": "/portfofilo/static/css/main.db22749a.css.map",
+    "main.02e9f3aa.js.map": "/portfofilo/static/js/main.02e9f3aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db22749a.css",
+    "static/js/main.02e9f3aa.js"
+  ]
+}
